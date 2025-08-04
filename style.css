@@ -16,11 +16,12 @@ h2{
   width: 100px;
   height: 100px;
   margin-top: 10px;
-  border: 1px aqua;
+  border: 1px solid white ;
   border-radius: 8px;
   
 }
 p{
   color: white;
+
 
 
