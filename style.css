@@ -16,8 +16,11 @@ h2{
   width: 100px;
   height: 100px;
   margin-top: 10px;
-  border: 1px solid #1d0505;
+  border: 1px aqua;
   border-radius: 8px;
   
 }
+p{
+  color: white;
+
 
